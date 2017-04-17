@@ -1,6 +1,6 @@
 # Tarte au citron 
 
-Temps de préparation : 20 minutes
+Temps de préparation : 20 minutes  
 Temps de cuisson : 40 minutes
 
 source : http://www.marmiton.org/recettes/recette_pancakes_15299.aspx
@@ -22,7 +22,7 @@ source : http://www.marmiton.org/recettes/recette_pancakes_15299.aspx
 1. Préchauffer le four à 180°
 2. Mettre la pâte dans un moule, la piquer
 3. La recouvrir avec une feuille de papier sulfurisé
-4. Recouvrir de haricots secs ou autre autre pour ne pas que la pâte gondle pendant la cuisson
+4. Recouvrir de haricots secs ou autre autre (pois cassés etc...) pour ne pas que la pâte gonfle pendant la cuisson
 2. Faire cuire le fond de tarte pendant 15/20 min selon le four.
 
 ### Préparation de la crème citron :

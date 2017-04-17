@@ -1,6 +1,6 @@
 # Pancakes 
 
-Temps de préparation : 10 minutes
+Temps de préparation : 10 minutes  
 Temps de cuisson : 10 minutes
 
 source : http://www.marmiton.org/recettes/recette_pancakes_15299.aspx
