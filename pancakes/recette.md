@@ -1,11 +1,11 @@
-#Pancakes 
+# Pancakes 
 
 Temps de préparation : 10 minutes
 Temps de cuisson : 10 minutes
 
 source : http://www.marmiton.org/recettes/recette_pancakes_15299.aspx
 
-##Ingrédients (pour une dizaine de pancakes) :
+## Ingrédients (pour une dizaine de pancakes) :
 
 - 250 g de farine
 - 30 g de sucre semoule
@@ -14,7 +14,7 @@ source : http://www.marmiton.org/recettes/recette_pancakes_15299.aspx
 - 65 g de beurre demi-sel
 - 30 cl de lait
 
-##Préparation :
+## Préparation :
 
 1. Faire fondre le beurre, dans une casserole à feu doux ou dans un bol au micro-ondes.  
 2. Mettre la farine, la levure et le sucre dans un saladier. Mélanger et creuser un puits.  

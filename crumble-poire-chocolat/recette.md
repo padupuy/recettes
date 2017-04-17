@@ -1,11 +1,11 @@
-#Crumble poire chocolat 
+# Crumble poire chocolat 
 
 Temps de préparation : 20 minutes
 Temps de cuisson : 25 minutes
 
 source : http://www.cuisineactuelle.fr/recettes/crumble-poire-chocolat-197383
 
-##Ingrédients (pour 6 personnes) :
+## Ingrédients (pour 6 personnes) :
 
 - 4 grosses poires
 - 150g de farine
@@ -13,7 +13,7 @@ source : http://www.cuisineactuelle.fr/recettes/crumble-poire-chocolat-197383
 - 150g de sucre en poudre 
 - 1 plaquette de chocolat noir dessert
 
-##Préparation :
+## Préparation :
 
 1. Préchauffez le four à 180 °C.
 2. Pelez les poires, coupez-les en 4, évidez-les et détaillez-les en dés.
