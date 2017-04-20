@@ -40,7 +40,7 @@ source : http://www.marmiton.org/recettes/recette_pancakes_15299.aspx
 ## Bonus Meringue
 
 - 1 pincée de sel
-- 240g de sucre
+- 200g de sucre
 - 4 blancs d"œufs
 
 ### Préparation :
