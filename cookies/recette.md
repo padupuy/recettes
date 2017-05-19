@@ -5,7 +5,7 @@ Temps de cuisson : 20 minutes
 
 source : Mathilde
 
-## Ingrédients (pour 15 cookies) :
+## Ingrédients (pour 20 cookies) :
 
 - 220g de farine
 - 120g de cassonade
@@ -20,8 +20,8 @@ source : Mathilde
 ## Préparation :
 
 1. Préchauffez le four à 180 °C.
-2. Dans un saladier, mélangez le sucre, la farine, la levure, le sel et la vanille
+2. Dans un saladier, mélangez le beurre pomade et le sucre
 3. Ajoutez l'oeuf
-4. Ajoutez le beurre pomade
+4. Ajoutez la farine, la levure, le sel et la vanille
 5. Ajoutez l'ingrédient magique
-6. Enfournez durant 25 à 30 min.
+6. Enfournez durant 7 min.
